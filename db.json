@@ -12,6 +12,6 @@
      "disk": 74
    },
   "s3": {
-     "Status": "Offline",
+     "Status": "Offline"
    }
 }
