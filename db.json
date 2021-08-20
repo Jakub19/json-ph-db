@@ -1,17 +1,17 @@
 {
   "s1": {
+     "status": Online,
      "cpu": 17.2,
      "ram": 55,
      "disk": 40
    },
   "s2": {
+    "status": Online,
      "cpu": 38,
      "ram": 84,
      "disk": 74
    },
   "s3": {
-     "cpu": 51,
-     "ram": 79,
-     "disk": 92
+     "Status": Offline,
    }
 }
